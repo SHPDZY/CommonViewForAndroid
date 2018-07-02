@@ -32,7 +32,7 @@
 # PhotoView
 实现支持缩放的ImageView for Android。   
 项目地址:
-[https://github.com/chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)
+[https://github.com/chrisbanes/PhotoView](https://github.com/chrisbanes/PhotoView)  
 ![](https://raw.githubusercontent.com/SHPDZY/CommonViewForAndroid/master/common-android-ui-library/4-1.png)
 ![](https://raw.githubusercontent.com/SHPDZY/CommonViewForAndroid/master/common-android-ui-library/4-2.png)
 
@@ -41,7 +41,7 @@
 # CircleImageView
 适用于Android的圆形ImageView  
 项目地址:
-[https://github.com/hdodenhof/CircleImageView](https://github.com/hdodenhof/CircleImageView)  
+[https://github.com/hdodenhof/CircleImageView](https://github.com/hdodenhof/CircleImageView)    
 ![](https://raw.githubusercontent.com/SHPDZY/CommonViewForAndroid/master/common-android-ui-library/5.png)
 
 
@@ -52,7 +52,7 @@
 # AVLoadingIndicatorView
 这是一款Android的精彩加载动画的集合，虽然作业已经弃用，但还是一个有助于学习的项目  
 项目地址:
-[https://github.com/81813780/AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)
+[https://github.com/81813780/AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView)  
 ![](https://raw.githubusercontent.com/SHPDZY/CommonViewForAndroid/master/common-android-ui-library/6.gif)
 
 ----------
@@ -61,7 +61,7 @@
 # MaterialViewPager
 一款Material Design ViewPager   
 项目地址:
-[https://github.com/florent37/MaterialViewPager](https://github.com/florent37/MaterialViewPager)
+[https://github.com/florent37/MaterialViewPager](https://github.com/florent37/MaterialViewPager)  
 ![](https://raw.githubusercontent.com/SHPDZY/CommonViewForAndroid/master/common-android-ui-library/7.png)
 
 ----------
