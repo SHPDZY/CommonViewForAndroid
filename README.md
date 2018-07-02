@@ -90,6 +90,14 @@
 
 ----------
 
+# XRecyclerView  
+一款可以添加head实现了pullrefresh，loadingmore的简单方便的RecycleView   
+项目地址:
+[https://github.com/XRecyclerView/XRecyclerView](https://github.com/XRecyclerView/XRecyclerView)    
+![](https://raw.githubusercontent.com/SHPDZY/CommonViewForAndroid/master/common-android-ui-library/11.gif)
+
+----------
+
 # 持续更新中······如果您有简单实用的view请联系我
 
 
